@@ -11,7 +11,6 @@ int largest(vector<int>& arr) {
         }
     }
     return l;
-    
 }
 
 int main() {
